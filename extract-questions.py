@@ -1,4 +1,6 @@
-# python script to extract questions from the squad dataset
+# python script to extract questions from the squad json file
+
+# not really using this one anymore
 
 import json
 import pandas as pd
